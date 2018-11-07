@@ -2,11 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="correction"/>
 			<item value="test"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="test_correction"/>
 			<item value="test_jenk"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -46,6 +48,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\IPI\Documents\GitHub\test\test2_jenkins\test_jenk\src\main\java\test_jenk"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
